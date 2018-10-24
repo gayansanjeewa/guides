@@ -4,6 +4,7 @@ navData.json
 .svn
 *.DS_Store
 *~
+/.idea
 
 # Logs
 logs
